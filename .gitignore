@@ -1,0 +1,25 @@
+# OS generated files #
+######################
+.DS_Store
+
+# python generated files #
+##########################
+*.pyc
+
+# jupyter generated files #
+##########################
+.ipynb_checkpoints/
+
+# misc files #
+##########################
+*.ffs_db
+*.bak
+
+# config files #
+##########################
+
+
+# project specific files #
+##########################
+history/logged_queries*.json
+history/logged_results*/*
